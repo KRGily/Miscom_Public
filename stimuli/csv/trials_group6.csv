@@ -1,0 +1,13 @@
+﻿item,pair_left_obj,pair_right_obj,condition,target_side,target_object,tap_dir,video
+A,Bottle,Cookie,Aff,L,Bottle,R,Bottle_R_Aff.mp4
+B,Pillow,Box,What,L,Pillow,R,Pillow_R_What.mp4
+C,Book,Hat,Aff,L,Book,L,Book_L_Aff.mp4
+D,Cup,Ball,What,L,Cup,L,Cup_L_What.mp4
+E,Balloon,Flower,Aff,R,Flower,R,Flower_R_Aff.mp4
+F,Baby,Car,What,R,Car,R,Car_R_What.mp4
+G,Apples,Socks,Aff,R,Socks,L,Socks_L_Aff.mp4
+H,Crackers,Bananas,What,L,Crackers,L,Crackers_L_What.mp4
+I,Towel,Yogurt,Aff,R,Yogurt,R,Yogurt_R_Aff.mp4
+J,Truck,Frog,What,R,Frog,R,Frog_R_What.mp4
+K,Shoe,Bear,Aff,R,Bear,L,Bear_L_Aff.mp4
+L,Spoon,Block,What,L,Spoon,L,Spoon_L_What.mp4
